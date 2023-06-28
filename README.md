@@ -48,7 +48,7 @@
 [![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://github.com/dogukanzder)
 [![Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-black?style=for-the-badge&logo=Adobe%20Premiere%20Pro)](https://github.com/dogukanzder)
 [![After Effect](https://img.shields.io/badge/Adobe_After_Effects-black?style=for-the-badge&logo=Adobe%20after%20effects)](https://github.com/dogukanzder)
-[![Final Cut Pro](https://img.shields.io/badge/Final_Cut_Pro-black?style=for-the-badge&logo=android)](https://github.com/dogukanzder)
+[![Logic Pro X](https://img.shields.io/badge/Logic_Pro_X-black?style=for-the-badge&logo=apple%20music)](https://github.com/dogukanzder)
 [![Office](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=Microsoft-Office)](https://github.com/dogukanzder)
 
 <details>
