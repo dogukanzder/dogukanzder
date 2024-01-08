@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Doğukan.<br>
-        I am a recent computer science graduate with a passion for programming.<br>
+        I am a computer science graduate with a passion for programming.<br>
     </i><br>
     <a href="https://www.instagram.com/dogukanzder/">
         <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram" alt="LinkedIn">
